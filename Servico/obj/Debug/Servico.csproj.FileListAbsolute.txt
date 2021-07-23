@@ -1,0 +1,11 @@
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Servico\bin\Debug\Servico.dll
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Servico\bin\Debug\Servico.pdb
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Servico\bin\Debug\Modelo.dll
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Servico\bin\Debug\Persistencia.dll
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Servico\bin\Debug\EntityFramework.dll
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Servico\bin\Debug\Modelo.pdb
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Servico\bin\Debug\Persistencia.pdb
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Servico\bin\Debug\EntityFramework.xml
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Servico\obj\Debug\Servico.csprojResolveAssemblyReference.cache
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Servico\obj\Debug\Servico.dll
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Servico\obj\Debug\Servico.pdb

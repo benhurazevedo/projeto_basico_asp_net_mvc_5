@@ -1,0 +1,5 @@
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Modelo\bin\Debug\Modelo.dll
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Modelo\bin\Debug\Modelo.pdb
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Modelo\obj\Debug\Modelo.dll
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Modelo\obj\Debug\Modelo.pdb
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache

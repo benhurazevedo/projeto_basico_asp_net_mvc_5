@@ -1,0 +1,41 @@
+﻿@model Modelo.Cadastros.Produto
+
+@{ 
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Visualizando os dados de um PRODUTO";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="panel panel-primary">
+        <div class="panel-heading">
+            Alteração dos dados de um PRODUTO
+        </div>
+        <div class="panel-body">
+            @Html.Partial("~/Areas/Cadastros/Views/Produtos/_PartialEditContentPanel.cshtml", Model)
+        </div>
+        <div class="panel-footer">
+            <div class="row">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Gravar alterações" class="btn btn-default" />
+                    @Html.ActionLink("Retornar para a listagem", "Index", null, new { @class = "btn btn-info" })
+                </div>
+            </div>
+        </div>
+    </div>
+}
+@section styles{
+    <link href="~/scripts/jquery-ui-1.11.4.custom/jquery-ui.min.css" rel="stylesheet" />
+}
+@section ScriptPage {
+<script src="~/scripts/jquery-ui-1.11.4.custom/jquery-ui.min.js"></script>
+<script src="~/scripts/jquery-ui-1.11.4.custom/datepicker-pt-BR.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $('li').removeClass("active");
+            $('#liProdutos').addClass("active");
+            $("#datepicker").datepicker();
+        });
+    </script>
+    }

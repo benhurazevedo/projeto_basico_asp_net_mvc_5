@@ -1,0 +1,14 @@
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Persistencia\bin\Debug\EntityFramework.dll
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Persistencia\bin\Debug\Modelo.dll
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Persistencia\bin\Debug\Modelo.pdb
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Persistencia\bin\Debug\EntityFramework.xml
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Persistencia\obj\Debug\Persistencia.Migrations.InitialCreate.resources
+C:\Users\benhu\onedrive\documents\visual studio 2015\Projects\Projeto01\Persistencia\obj\Debug\Persistencia.csproj.GenerateResource.Cache
